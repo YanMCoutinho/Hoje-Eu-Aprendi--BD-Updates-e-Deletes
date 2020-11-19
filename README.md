@@ -5,7 +5,7 @@
 
 # :blue_book: Objetivo
 
-O objetivo desse exercício é fundamentare fixar através da prática os conceitos de Update e Delete do Sql usando Sql Server. Para essa prática foi utilizado o seguinte repositório para a prática: <a href="https://github.com/YanMCoutinho/Hoje-Eu-Aprendi--BD-Creates-e-Inserts">"Hoje-Eu-Aprendi--BD-Creates-e-Insertes"</a>
+O objetivo desse exercício é fundamentare fixar através da prática os conceitos de Update e Delete do Sql usando Sql Server. Para essa prática foi utilizado o seguinte repositório: <a href="https://github.com/YanMCoutinho/Hoje-Eu-Aprendi--BD-Creates-e-Inserts">"Hoje-Eu-Aprendi--BD-Creates-e-Insertes"</a>
 
 <br>
 
